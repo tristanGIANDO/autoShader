@@ -1,7 +1,11 @@
 import maya.cmds as cmds
 
+# Created by TRISTAN GIANDORIGGIO
+# +33651839815
+# giando.tristan@gmail.com
 
 '''
+TO DO
 Option linearize ou pas
 Procedural
 PxrT_DUVAL_Spec
